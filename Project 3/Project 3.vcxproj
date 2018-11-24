@@ -84,13 +84,14 @@
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
-      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
+      <PrecompiledHeaderFile>
+      </PrecompiledHeaderFile>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -151,16 +152,26 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="pch.h" />
+    <ClCompile Include="NvraComparator.cpp" />
+    <ClCompile Include="NvraRecord.cpp" />
+    <ClCompile Include="Project 3.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="pch.cpp">
-      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
-      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
-      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
-      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
-    </ClCompile>
-    <ClCompile Include="Project 3.cpp" />
+    <ClInclude Include="Comparator.h" />
+    <ClInclude Include="Enumerator.h" />
+    <ClInclude Include="Exceptions.h" />
+    <ClInclude Include="Hasher.h" />
+    <ClInclude Include="HashTable.h" />
+    <ClInclude Include="HashTableEnumerator.h" />
+    <ClInclude Include="NvraComparator.h" />
+    <ClInclude Include="NvraHasher.h" />
+    <ClInclude Include="NvraRecord.h" />
+    <ClInclude Include="OULink.h" />
+    <ClInclude Include="OULinkedList.h" />
+    <ClInclude Include="OULinkedListEnumerator.h" />
+    <ClInclude Include="Search.h" />
+    <ClInclude Include="Sorter.h" />
+    <ClInclude Include="TemplatedArray.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

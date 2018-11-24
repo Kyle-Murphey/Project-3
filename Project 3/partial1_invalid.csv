@@ -1,0 +1,13 @@
+record_id,source_id,county_code,parent_source,apps_received,new_registrations,name_changes,address_changes,party_changes,regis_updates,rej_apps,county_desc,description,rej_dupes,nonrej_dupes,apps_received_prior,new_registrations_prior,name_changes_prior,address_changes_prior,party_changes_prior,regis_updates_prior,rej_apps_prior,rej_dupes_prior,nonrej_dupes_prior
+1,000010007,01,PA,0,0,0,0,0,0,0,01 - ADAIR,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+2,000034000,01,PA,4,2,0,2,2,3,0,01 - ADAIR,Health Dept. Print,0,0,0,1,0,0,0,0,0,0,0
+3,000034001,01,PA,0,0,0,0,0,0,0,01 - ADAIR,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+4,000080700,01,PA,0,0,0,0,0,0,0,01 - ADAIR,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,-1
+5,000080701,01,PA,0,0,0,0,0,0,0,01 - ADAIR,Health Care Authority Web,0,0,0,0,0,0,-1,0,0,0,0
+6,000083000,01,PA,14,10,1,2,4,6,0,01 - ADAIR,Dept. of Human Services Print,0,0,7,7,3,3,3,4,0,0,0
+7,000083001,01,PA,2,3,0,0,0,0,0,01 - ADAIR,Dept. of Human Services Web,0,0,1,1,1,1,0,1,0,0,0
+8,000010007,02,PA,0,0,0,0,0,0,0,02 - ALFALFA,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+9,000034000,02,PA,0,0,0,0,0,0,0,02 - ALFALFA,Health Dept. Print,0,0,0,0,0,0,0,0,0,0,0
+10,000034001,02,PA,0,0,0,0,0,0,0,02 - ALFALFA,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+11,000080700,02,PA,0,0,0,0,0,0,0,02 - ALFALFA,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+12,000080701,02,PA,0,0,0,0,0,0,0,02 - ALFALFA,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0

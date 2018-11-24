@@ -1,0 +1,10 @@
+record_id,source_id,county_code,parent_source,apps_received,new_registrations,name_changes,address_changes,party_changes,regis_updates,rej_apps,county_desc,description,rej_dupes,nonrej_dupes,apps_received_prior,new_registrations_prior,name_changes_prior,address_changes_prior,party_changes_prior,regis_updates_prior,rej_apps_prior,rej_dupes_prior,nonrej_dupes_prior
+11,10007,1,PA,0,0,0,0,0,0,0,01 - ADAIR,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+22,34000,1,PA,4,2,0,2,2,3,0,01 - ADAIR,Health Dept. Print,0,0,0,1,0,0,0,0,0,0,0
+33,34001,1,PA,0,0,0,0,0,0,0,01 - ADAIR,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+44,80700,1,PA,0,0,0,0,0,0,0,01 - ADAIR,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+55,80701,1,PA,0,0,0,0,0,0,0,01 - ADAIR,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+66,83000,1,PA,14,10,1,2,4,6,0,01 - ADAIR,Dept. of Human Services Print,0,0,7,7,3,3,3,4,0,0,0
+77,83001,1,PA,2,3,0,0,0,0,0,01 - ADAIR,Dept. of Human Services Web,0,0,1,1,1,1,0,1,0,0,0
+88,10007,2,PA,0,0,0,0,0,0,0,02 - ALFALFA,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+99,34000,2,PA,0,0,0,0,0,0,0,02 - ALFALFA,Health Dept. Print,0,0,0,0,0,0,0,0,0,0,0

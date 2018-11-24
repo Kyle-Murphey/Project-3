@@ -1,0 +1,547 @@
+record_id,source_id,county_code,parent_source,apps_received,new_registrations,name_changes,address_changes,party_changes,regis_updates,rej_apps,county_desc,description,rej_dupes,nonrej_dupes,apps_received_prior,new_registrations_prior,name_changes_prior,address_changes_prior,party_changes_prior,regis_updates_prior,rej_apps_prior,rej_dupes_prior,nonrej_dupes_prior
+1,000010007,01,PA,0,0,0,0,0,0,0,01 - ADAIR,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+2,000034000,01,PA,4,2,0,2,2,3,0,01 - ADAIR,Health Dept. Print,0,0,0,1,0,0,0,0,0,0,0
+3,000034001,01,PA,0,0,0,0,0,0,0,01 - ADAIR,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+4,000080700,01,PA,0,0,0,0,0,0,0,01 - ADAIR,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+5,000080701,01,PA,0,0,0,0,0,0,0,01 - ADAIR,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+6,000083000,01,PA,14,10,1,2,4,6,0,01 - ADAIR,Dept. of Human Services Print,0,0,7,7,3,3,3,4,0,0,0
+7,000083001,01,PA,2,3,0,0,0,0,0,01 - ADAIR,Dept. of Human Services Web,0,0,1,1,1,1,0,1,0,0,0
+8,000010007,02,PA,0,0,0,0,0,0,0,02 - ALFALFA,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+9,000034000,02,PA,0,0,0,0,0,0,0,02 - ALFALFA,Health Dept. Print,0,0,0,0,0,0,0,0,0,0,0
+10,000034001,02,PA,0,0,0,0,0,0,0,02 - ALFALFA,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+11,000080700,02,PA,0,0,0,0,0,0,0,02 - ALFALFA,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+12,000080701,02,PA,0,0,0,0,0,0,0,02 - ALFALFA,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+13,000083000,02,PA,1,1,0,0,0,0,0,02 - ALFALFA,Dept. of Human Services Print,0,0,0,0,0,0,0,0,0,0,0
+14,000083001,02,PA,1,1,0,0,0,0,0,02 - ALFALFA,Dept. of Human Services Web,0,0,2,2,0,0,0,0,0,0,0
+15,000010007,03,PA,0,0,0,0,0,0,0,03 - ATOKA,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+16,000034000,03,PA,1,1,0,0,0,0,0,03 - ATOKA,Health Dept. Print,0,0,0,0,0,0,0,0,0,0,0
+17,000034001,03,PA,0,0,0,0,0,0,0,03 - ATOKA,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+18,000080700,03,PA,0,0,0,0,0,0,0,03 - ATOKA,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+19,000080701,03,PA,0,0,0,0,0,0,0,03 - ATOKA,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+20,000083000,03,PA,3,3,0,1,0,1,1,03 - ATOKA,Dept. of Human Services Print,0,0,9,8,0,2,1,2,0,0,0
+21,000083001,03,PA,2,2,0,0,0,0,0,03 - ATOKA,Dept. of Human Services Web,0,0,0,0,0,0,0,0,0,0,0
+22,000010007,04,PA,0,0,0,0,0,0,0,04 - BEAVER,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+23,000034000,04,PA,0,0,0,0,0,0,0,04 - BEAVER,Health Dept. Print,0,0,1,1,0,0,0,0,0,0,0
+24,000034001,04,PA,0,0,0,0,0,0,0,04 - BEAVER,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+25,000080700,04,PA,0,0,0,0,0,0,0,04 - BEAVER,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+26,000080701,04,PA,1,1,0,0,0,0,0,04 - BEAVER,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+27,000083000,04,PA,1,1,0,0,0,0,0,04 - BEAVER,Dept. of Human Services Print,0,0,0,0,0,0,0,0,0,0,0
+28,000083001,04,PA,0,0,0,0,0,0,0,04 - BEAVER,Dept. of Human Services Web,0,0,0,0,0,0,0,0,0,0,0
+29,000010007,05,PA,0,0,0,0,0,0,0,05 - BECKHAM,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+30,000034000,05,PA,3,2,0,0,0,1,0,05 - BECKHAM,Health Dept. Print,0,0,6,5,0,1,0,1,0,0,0
+31,000034001,05,PA,0,0,0,0,0,0,0,05 - BECKHAM,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+32,000080700,05,PA,0,0,0,0,0,0,0,05 - BECKHAM,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+33,000080701,05,PA,1,1,0,0,0,0,0,05 - BECKHAM,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+34,000083000,05,PA,3,2,0,1,0,1,0,05 - BECKHAM,Dept. of Human Services Print,0,0,0,1,0,0,1,1,0,0,0
+35,000083001,05,PA,0,0,0,0,0,0,0,05 - BECKHAM,Dept. of Human Services Web,0,0,1,1,1,1,0,1,0,0,0
+36,000010007,06,PA,0,0,0,0,0,0,0,06 - BLAINE,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+37,000034000,06,PA,0,1,0,0,0,0,0,06 - BLAINE,Health Dept. Print,0,0,1,1,0,0,0,0,0,0,0
+38,000034001,06,PA,2,2,0,0,0,0,0,06 - BLAINE,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+39,000080700,06,PA,0,0,0,0,0,0,0,06 - BLAINE,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+40,000080701,06,PA,0,0,0,0,0,0,0,06 - BLAINE,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+41,000083000,06,PA,0,0,0,0,0,0,0,06 - BLAINE,Dept. of Human Services Print,0,0,0,0,0,0,0,0,0,0,0
+42,000083001,06,PA,0,0,0,0,0,0,0,06 - BLAINE,Dept. of Human Services Web,0,0,1,1,0,0,0,0,0,0,0
+43,000010007,07,PA,0,0,0,0,0,0,0,07 - BRYAN,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+44,000034000,07,PA,6,5,0,1,0,2,0,07 - BRYAN,Health Dept. Print,0,1,1,2,0,0,0,0,0,0,0
+45,000034001,07,PA,0,0,0,0,0,0,0,07 - BRYAN,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+46,000080700,07,PA,0,0,0,0,0,0,0,07 - BRYAN,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+47,000080701,07,PA,0,0,0,0,0,0,0,07 - BRYAN,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+48,000083000,07,PA,1,1,0,0,0,0,0,07 - BRYAN,Dept. of Human Services Print,0,0,2,2,1,1,0,1,0,0,0
+49,000083001,07,PA,0,0,0,0,0,0,0,07 - BRYAN,Dept. of Human Services Web,0,0,2,2,0,0,0,0,0,0,0
+50,000010007,08,PA,0,0,0,0,0,0,0,08 - CADDO,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+51,000034000,08,PA,1,1,0,0,0,0,0,08 - CADDO,Health Dept. Print,0,0,0,0,0,0,0,0,0,0,0
+52,000034001,08,PA,0,0,0,0,0,0,0,08 - CADDO,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+53,000080700,08,PA,0,0,0,0,0,0,0,08 - CADDO,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+54,000080701,08,PA,0,0,0,0,0,0,0,08 - CADDO,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+55,000083000,08,PA,6,5,1,3,1,5,1,08 - CADDO,Dept. of Human Services Print,1,1,2,1,0,1,0,3,0,0,2
+56,000083001,08,PA,2,2,0,0,0,0,0,08 - CADDO,Dept. of Human Services Web,0,0,1,1,0,1,0,1,0,0,0
+57,000010007,09,PA,0,0,0,0,0,0,0,09 - CANADIAN,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+58,000034000,09,PA,46,38,2,6,3,9,1,09 - CANADIAN,Health Dept. Print,0,1,19,14,0,1,2,5,0,0,1
+59,000034001,09,PA,0,0,0,0,0,0,0,09 - CANADIAN,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+60,000080700,09,PA,0,0,0,0,0,0,0,09 - CANADIAN,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+61,000080701,09,PA,1,1,0,0,0,0,0,09 - CANADIAN,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+62,000083000,09,PA,15,16,1,0,1,1,2,09 - CANADIAN,Dept. of Human Services Print,0,0,12,11,1,2,1,2,1,0,0
+63,000083001,09,PA,3,3,0,0,0,0,0,09 - CANADIAN,Dept. of Human Services Web,0,0,13,11,1,1,1,2,0,0,0
+64,000010007,10,PA,0,0,0,0,0,0,0,10 - CARTER,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+65,000034000,10,PA,15,9,1,5,1,6,0,10 - CARTER,Health Dept. Print,0,0,8,7,1,0,0,1,0,0,0
+66,000034001,10,PA,0,0,0,0,0,0,0,10 - CARTER,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+67,000080700,10,PA,0,0,0,0,0,0,0,10 - CARTER,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+68,000080701,10,PA,0,0,0,0,0,0,0,10 - CARTER,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+69,000083000,10,PA,6,3,0,2,0,3,0,10 - CARTER,Dept. of Human Services Print,0,0,6,2,1,1,1,4,0,0,1
+70,000083001,10,PA,0,0,0,0,0,0,0,10 - CARTER,Dept. of Human Services Web,0,0,2,1,0,1,1,1,0,0,0
+71,000010007,11,PA,0,0,0,0,0,0,0,11 - CHEROKEE,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+72,000034000,11,PA,0,0,0,0,0,0,0,11 - CHEROKEE,Health Dept. Print,0,0,1,1,0,0,0,0,0,0,0
+73,000034001,11,PA,0,0,0,0,0,0,0,11 - CHEROKEE,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+74,000080700,11,PA,0,0,0,0,0,0,0,11 - CHEROKEE,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+75,000080701,11,PA,2,0,1,0,2,2,0,11 - CHEROKEE,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+76,000083000,11,PA,51,42,2,6,3,9,0,11 - CHEROKEE,Dept. of Human Services Print,0,0,11,11,0,0,1,2,0,0,0
+77,000083001,11,PA,1,1,0,0,0,0,0,11 - CHEROKEE,Dept. of Human Services Web,0,0,6,6,0,0,0,0,0,0,0
+78,000010007,12,PA,0,0,0,0,0,0,0,12 - CHOCTAW,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+79,000034000,12,PA,4,3,1,0,1,1,0,12 - CHOCTAW,Health Dept. Print,0,0,2,3,0,0,0,0,0,0,0
+80,000034001,12,PA,0,0,0,0,0,0,0,12 - CHOCTAW,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+81,000080700,12,PA,0,0,0,0,0,0,0,12 - CHOCTAW,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+82,000080701,12,PA,0,0,0,0,0,0,0,12 - CHOCTAW,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+83,000083000,12,PA,1,0,0,1,1,1,0,12 - CHOCTAW,Dept. of Human Services Print,0,0,1,1,0,0,0,0,0,0,0
+84,000083001,12,PA,0,0,0,0,0,0,0,12 - CHOCTAW,Dept. of Human Services Web,0,0,0,0,0,0,0,0,0,0,0
+85,000010007,13,PA,0,0,0,0,0,0,0,13 - CIMARRON,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+86,000034000,13,PA,0,0,0,0,0,0,0,13 - CIMARRON,Health Dept. Print,0,0,0,0,0,0,0,0,0,0,0
+87,000034001,13,PA,0,0,0,0,0,0,0,13 - CIMARRON,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+88,000080700,13,PA,0,0,0,0,0,0,0,13 - CIMARRON,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+89,000080701,13,PA,0,0,0,0,0,0,0,13 - CIMARRON,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+90,000083000,13,PA,0,0,0,0,0,0,0,13 - CIMARRON,Dept. of Human Services Print,0,0,0,0,0,0,0,0,0,0,0
+91,000083001,13,PA,0,0,0,0,0,0,0,13 - CIMARRON,Dept. of Human Services Web,0,0,0,0,0,0,0,0,0,0,0
+92,000010007,14,PA,2,2,0,0,0,0,0,14 - CLEVELAND,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+93,000034000,14,PA,33,25,1,7,2,8,0,14 - CLEVELAND,Health Dept. Print,0,1,15,17,1,3,0,7,1,0,2
+94,000034001,14,PA,0,0,0,0,0,0,0,14 - CLEVELAND,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+95,000080700,14,PA,0,0,0,0,0,0,0,14 - CLEVELAND,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+96,000080701,14,PA,0,0,0,0,0,0,0,14 - CLEVELAND,Health Care Authority Web,0,0,0,1,0,0,0,0,1,0,0
+97,000083000,14,PA,98,83,9,19,10,29,2,14 - CLEVELAND,Dept. of Human Services Print,0,0,61,54,5,19,5,23,1,0,1
+98,000083001,14,PA,12,12,0,0,1,3,0,14 - CLEVELAND,Dept. of Human Services Web,0,1,44,34,0,7,1,12,1,0,0
+99,000010007,15,PA,0,0,0,0,0,0,0,15 - COAL,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+100,000034000,15,PA,3,3,0,0,0,0,0,15 - COAL,Health Dept. Print,0,0,1,0,0,0,0,1,0,0,0
+101,000034001,15,PA,0,0,0,0,0,0,0,15 - COAL,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+102,000080700,15,PA,0,0,0,0,0,0,0,15 - COAL,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+103,000080701,15,PA,0,0,0,0,0,0,0,15 - COAL,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+104,000083000,15,PA,5,3,0,2,1,2,0,15 - COAL,Dept. of Human Services Print,0,0,1,1,0,0,0,0,0,0,0
+105,000083001,15,PA,0,0,0,0,0,0,0,15 - COAL,Dept. of Human Services Web,0,0,0,0,0,0,0,0,0,0,0
+106,000010007,16,PA,0,0,0,0,0,0,0,16 - COMANCHE,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+107,000034000,16,PA,40,22,2,10,3,18,0,16 - COMANCHE,Health Dept. Print,0,3,37,27,8,15,7,19,0,0,0
+108,000034001,16,PA,1,1,0,0,0,0,0,16 - COMANCHE,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+109,000080700,16,PA,0,0,0,0,0,0,0,16 - COMANCHE,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+110,000080701,16,PA,0,0,0,0,0,0,0,16 - COMANCHE,Health Care Authority Web,0,0,2,2,0,0,0,0,0,0,0
+111,000083000,16,PA,40,33,1,5,1,9,2,16 - COMANCHE,Dept. of Human Services Print,0,1,25,27,1,8,0,10,2,0,0
+112,000083001,16,PA,1,1,0,0,0,0,0,16 - COMANCHE,Dept. of Human Services Web,0,0,5,3,2,4,2,4,0,0,0
+113,000010007,17,PA,0,0,0,0,0,0,0,17 - COTTON,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+114,000034000,17,PA,4,3,0,0,0,1,0,17 - COTTON,Health Dept. Print,0,1,6,4,0,1,0,2,0,0,0
+115,000034001,17,PA,0,0,0,0,0,0,0,17 - COTTON,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+116,000080700,17,PA,0,0,0,0,0,0,0,17 - COTTON,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+117,000080701,17,PA,0,0,0,0,0,0,0,17 - COTTON,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+118,000083000,17,PA,0,0,0,0,0,0,0,17 - COTTON,Dept. of Human Services Print,0,0,3,3,0,0,0,0,0,0,0
+119,000083001,17,PA,0,0,0,0,0,0,0,17 - COTTON,Dept. of Human Services Web,0,0,0,0,0,0,0,0,0,0,0
+120,000010007,18,PA,0,0,0,0,0,0,0,18 - CRAIG,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+121,000034000,18,PA,4,5,0,0,0,0,0,18 - CRAIG,Health Dept. Print,0,0,1,1,0,0,0,0,0,0,0
+122,000034001,18,PA,0,0,0,0,0,0,0,18 - CRAIG,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+123,000080700,18,PA,0,0,0,0,0,0,0,18 - CRAIG,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+124,000080701,18,PA,0,0,0,0,0,0,0,18 - CRAIG,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+125,000083000,18,PA,11,4,1,4,2,7,0,18 - CRAIG,Dept. of Human Services Print,0,0,2,2,0,0,0,0,0,0,0
+126,000083001,18,PA,0,0,0,0,0,0,0,18 - CRAIG,Dept. of Human Services Web,0,0,0,0,0,0,0,0,0,0,0
+127,000010007,19,PA,0,0,0,0,0,0,0,19 - CREEK,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+128,000034000,19,PA,7,6,1,0,0,1,0,19 - CREEK,Health Dept. Print,0,0,9,11,1,2,1,5,1,0,1
+129,000034001,19,PA,0,0,0,0,0,0,0,19 - CREEK,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+130,000080700,19,PA,0,0,0,0,0,0,0,19 - CREEK,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+131,000080701,19,PA,1,0,0,1,0,1,0,19 - CREEK,Health Care Authority Web,0,0,1,0,0,0,0,1,0,0,0
+132,000083000,19,PA,13,11,1,1,0,2,0,19 - CREEK,Dept. of Human Services Print,0,1,19,19,1,5,3,7,1,0,1
+133,000083001,19,PA,3,2,1,0,1,1,0,19 - CREEK,Dept. of Human Services Web,0,0,11,14,0,0,1,1,0,0,0
+134,000010007,20,PA,0,0,0,0,0,0,0,20 - CUSTER,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+135,000034000,20,PA,4,3,0,1,0,1,0,20 - CUSTER,Health Dept. Print,0,0,3,3,0,1,0,1,0,0,0
+136,000034001,20,PA,0,0,0,0,0,0,0,20 - CUSTER,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+137,000080700,20,PA,0,0,0,0,0,0,0,20 - CUSTER,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+138,000080701,20,PA,0,0,0,0,0,0,0,20 - CUSTER,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+139,000083000,20,PA,8,5,0,2,1,3,0,20 - CUSTER,Dept. of Human Services Print,0,0,0,4,0,1,0,1,0,0,0
+140,000083001,20,PA,1,0,0,1,0,1,0,20 - CUSTER,Dept. of Human Services Web,0,0,0,0,1,0,0,1,0,0,0
+141,000010007,21,PA,0,0,0,0,0,0,0,21 - DELAWARE,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+142,000034000,21,PA,11,12,0,0,0,0,1,21 - DELAWARE,Health Dept. Print,0,0,6,6,0,0,0,0,0,0,0
+143,000034001,21,PA,0,0,0,0,0,0,0,21 - DELAWARE,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+144,000080700,21,PA,0,0,0,0,0,0,0,21 - DELAWARE,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+145,000080701,21,PA,0,0,0,0,0,0,0,21 - DELAWARE,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+146,000083000,21,PA,10,7,0,2,2,5,1,21 - DELAWARE,Dept. of Human Services Print,0,1,12,11,0,0,0,1,0,0,1
+147,000083001,21,PA,0,0,0,0,0,0,0,21 - DELAWARE,Dept. of Human Services Web,0,0,5,4,0,0,0,1,0,0,1
+148,000010007,22,PA,0,0,0,0,0,0,0,22 - DEWEY,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+149,000034000,22,PA,0,0,0,0,0,0,0,22 - DEWEY,Health Dept. Print,0,0,0,0,0,0,0,0,0,0,0
+150,000034001,22,PA,0,0,0,0,0,0,0,22 - DEWEY,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+151,000080700,22,PA,0,0,0,0,0,0,0,22 - DEWEY,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+152,000080701,22,PA,0,0,0,0,0,0,0,22 - DEWEY,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+153,000083000,22,PA,0,0,0,0,0,0,0,22 - DEWEY,Dept. of Human Services Print,0,0,0,0,0,0,0,0,0,0,0
+154,000083001,22,PA,0,0,0,0,0,0,0,22 - DEWEY,Dept. of Human Services Web,0,0,0,0,0,0,0,0,0,0,0
+155,000010007,23,PA,0,0,0,0,0,0,0,23 - ELLIS,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+156,000034000,23,PA,0,0,0,0,0,0,0,23 - ELLIS,Health Dept. Print,0,0,2,2,0,0,0,0,0,0,0
+157,000034001,23,PA,0,0,0,0,0,0,0,23 - ELLIS,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+158,000080700,23,PA,0,0,0,0,0,0,0,23 - ELLIS,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+159,000080701,23,PA,0,0,0,0,0,0,0,23 - ELLIS,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+160,000083000,23,PA,1,0,0,0,1,1,0,23 - ELLIS,Dept. of Human Services Print,0,0,1,1,0,0,0,0,0,0,0
+161,000083001,23,PA,0,0,0,0,0,0,0,23 - ELLIS,Dept. of Human Services Web,0,0,0,0,0,0,0,0,0,0,0
+162,000010007,24,PA,0,0,0,0,0,0,0,24 - GARFIELD,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+163,000034000,24,PA,18,11,1,5,1,8,1,24 - GARFIELD,Health Dept. Print,1,0,8,4,2,3,0,4,0,0,0
+164,000034001,24,PA,0,0,0,0,0,0,0,24 - GARFIELD,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+165,000080700,24,PA,0,0,0,0,0,0,0,24 - GARFIELD,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+166,000080701,24,PA,0,0,0,0,0,0,0,24 - GARFIELD,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+167,000083000,24,PA,11,7,2,1,1,5,1,24 - GARFIELD,Dept. of Human Services Print,1,0,6,4,1,1,1,2,0,0,0
+168,000083001,24,PA,1,1,0,0,0,0,0,24 - GARFIELD,Dept. of Human Services Web,0,0,2,2,0,0,0,0,0,0,0
+169,000010007,25,PA,0,0,0,0,0,0,0,25 - GARVIN,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+170,000034000,25,PA,7,4,1,2,0,3,0,25 - GARVIN,Health Dept. Print,0,0,9,7,0,1,1,2,0,0,0
+171,000034001,25,PA,0,0,0,0,0,0,0,25 - GARVIN,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+172,000080700,25,PA,0,0,0,0,0,0,0,25 - GARVIN,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+173,000080701,25,PA,0,0,0,0,0,0,0,25 - GARVIN,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+174,000083000,25,PA,1,1,0,0,0,0,0,25 - GARVIN,Dept. of Human Services Print,0,0,2,1,0,1,0,1,0,0,0
+175,000083001,25,PA,2,3,0,0,0,0,1,25 - GARVIN,Dept. of Human Services Web,0,0,1,1,0,0,0,0,0,0,0
+176,000010007,26,PA,0,0,0,0,0,0,0,26 - GRADY,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+177,000034000,26,PA,16,8,3,4,3,10,1,26 - GRADY,Health Dept. Print,0,2,20,15,0,2,3,8,3,0,1
+178,000034001,26,PA,0,0,0,0,0,0,0,26 - GRADY,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+179,000080700,26,PA,0,0,0,0,0,0,0,26 - GRADY,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+180,000080701,26,PA,0,0,0,0,0,0,0,26 - GRADY,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+181,000083000,26,PA,14,14,0,1,1,2,1,26 - GRADY,Dept. of Human Services Print,0,0,12,10,0,2,3,4,1,0,0
+182,000083001,26,PA,0,0,0,0,0,0,0,26 - GRADY,Dept. of Human Services Web,0,0,4,3,0,1,0,1,0,0,0
+183,000010007,27,PA,0,0,0,0,0,0,0,27 - GRANT,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+184,000034000,27,PA,0,0,0,0,0,0,0,27 - GRANT,Health Dept. Print,0,0,2,1,0,1,0,1,0,0,0
+185,000034001,27,PA,0,0,0,0,0,0,0,27 - GRANT,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+186,000080700,27,PA,0,0,0,0,0,0,0,27 - GRANT,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+187,000080701,27,PA,0,0,0,0,0,0,0,27 - GRANT,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+188,000083000,27,PA,0,0,0,0,0,0,0,27 - GRANT,Dept. of Human Services Print,0,0,0,0,0,0,0,0,0,0,0
+189,000083001,27,PA,0,0,0,0,0,0,0,27 - GRANT,Dept. of Human Services Web,0,0,0,0,0,0,0,0,0,0,0
+190,000010007,28,PA,0,0,0,0,0,0,0,28 - GREER,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+191,000034000,28,PA,4,3,0,1,1,1,0,28 - GREER,Health Dept. Print,0,0,2,2,0,0,0,0,0,0,0
+192,000034001,28,PA,0,0,0,0,0,0,0,28 - GREER,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+193,000080700,28,PA,0,0,0,0,0,0,0,28 - GREER,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+194,000080701,28,PA,0,0,0,0,0,0,0,28 - GREER,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+195,000083000,28,PA,1,0,0,1,0,1,0,28 - GREER,Dept. of Human Services Print,0,0,1,0,0,1,0,1,0,0,0
+196,000083001,28,PA,0,0,0,0,0,0,0,28 - GREER,Dept. of Human Services Web,0,0,0,0,0,0,0,0,0,0,0
+197,000010007,29,PA,0,0,0,0,0,0,0,29 - HARMON,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+198,000034000,29,PA,0,0,0,0,0,0,0,29 - HARMON,Health Dept. Print,0,0,0,0,0,0,0,0,0,0,0
+199,000034001,29,PA,0,0,0,0,0,0,0,29 - HARMON,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+200,000080700,29,PA,0,0,0,0,0,0,0,29 - HARMON,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+201,000080701,29,PA,0,0,0,0,0,0,0,29 - HARMON,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+202,000083000,29,PA,0,0,0,0,0,0,0,29 - HARMON,Dept. of Human Services Print,0,0,0,0,0,0,0,0,0,0,0
+203,000083001,29,PA,0,0,0,0,0,0,0,29 - HARMON,Dept. of Human Services Web,0,0,0,0,0,0,0,0,0,0,0
+204,000010007,30,PA,0,0,0,0,0,0,0,30 - HARPER,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+205,000034000,30,PA,0,0,0,0,0,0,0,30 - HARPER,Health Dept. Print,0,0,1,1,0,0,0,0,0,0,0
+206,000034001,30,PA,0,0,0,0,0,0,0,30 - HARPER,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+207,000080700,30,PA,0,0,0,0,0,0,0,30 - HARPER,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+208,000080701,30,PA,0,0,0,0,0,0,0,30 - HARPER,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+209,000083000,30,PA,0,0,0,0,0,0,0,30 - HARPER,Dept. of Human Services Print,0,0,0,0,0,0,0,0,0,0,0
+210,000083001,30,PA,0,0,0,0,0,0,0,30 - HARPER,Dept. of Human Services Web,0,0,0,0,0,0,0,0,0,0,0
+211,000010007,31,PA,0,0,0,0,0,0,0,31 - HASKELL,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+212,000034000,31,PA,3,2,0,1,0,1,0,31 - HASKELL,Health Dept. Print,0,0,1,1,0,0,0,0,0,0,0
+213,000034001,31,PA,0,0,0,0,0,0,0,31 - HASKELL,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+214,000080700,31,PA,0,0,0,0,0,0,0,31 - HASKELL,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+215,000080701,31,PA,0,0,0,0,0,0,0,31 - HASKELL,Health Care Authority Web,0,0,1,1,0,0,0,0,0,0,0
+216,000083000,31,PA,3,3,0,0,0,0,0,31 - HASKELL,Dept. of Human Services Print,0,0,2,0,0,1,1,2,0,0,0
+217,000083001,31,PA,0,0,0,0,0,0,0,31 - HASKELL,Dept. of Human Services Web,0,0,2,2,0,0,0,0,0,0,0
+218,000010007,32,PA,0,0,0,0,0,0,0,32 - HUGHES,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+219,000034000,32,PA,7,7,0,0,0,0,0,32 - HUGHES,Health Dept. Print,0,0,4,3,0,1,0,1,0,0,0
+220,000034001,32,PA,0,0,0,0,0,0,0,32 - HUGHES,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+221,000080700,32,PA,0,0,0,0,0,0,0,32 - HUGHES,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+222,000080701,32,PA,0,0,0,0,0,0,0,32 - HUGHES,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+223,000083000,32,PA,4,4,0,0,0,0,0,32 - HUGHES,Dept. of Human Services Print,0,0,6,4,0,2,0,2,0,0,0
+224,000083001,32,PA,5,5,0,0,0,0,0,32 - HUGHES,Dept. of Human Services Web,0,0,13,12,0,0,0,1,0,0,0
+225,000010007,33,PA,0,0,0,0,0,0,0,33 - JACKSON,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+226,000034000,33,PA,6,6,1,1,1,2,2,33 - JACKSON,Health Dept. Print,0,0,0,2,0,0,0,0,0,0,0
+227,000034001,33,PA,0,0,0,0,0,0,0,33 - JACKSON,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+228,000080700,33,PA,0,0,0,0,0,0,0,33 - JACKSON,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+229,000080701,33,PA,0,0,0,0,0,0,0,33 - JACKSON,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+230,000083000,33,PA,3,2,0,1,0,1,0,33 - JACKSON,Dept. of Human Services Print,0,0,5,6,0,1,1,2,0,0,0
+231,000083001,33,PA,2,1,1,0,0,1,0,33 - JACKSON,Dept. of Human Services Web,0,0,4,4,0,0,0,0,0,0,0
+232,000010007,34,PA,0,0,0,0,0,0,0,34 - JEFFERSON,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+233,000034000,34,PA,1,2,0,0,0,0,1,34 - JEFFERSON,Health Dept. Print,0,0,5,4,0,0,0,1,0,0,0
+234,000034001,34,PA,0,0,0,0,0,0,0,34 - JEFFERSON,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+235,000080700,34,PA,0,0,0,0,0,0,0,34 - JEFFERSON,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+236,000080701,34,PA,0,0,0,0,0,0,0,34 - JEFFERSON,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+237,000083000,34,PA,1,0,0,0,0,1,0,34 - JEFFERSON,Dept. of Human Services Print,0,0,3,2,0,0,0,1,0,0,0
+238,000083001,34,PA,0,0,0,0,0,0,0,34 - JEFFERSON,Dept. of Human Services Web,0,0,0,0,0,0,0,0,0,0,0
+239,000010007,35,PA,0,0,0,0,0,0,0,35 - JOHNSTON,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+240,000034000,35,PA,6,5,1,1,1,2,1,35 - JOHNSTON,Health Dept. Print,0,0,3,2,1,1,0,1,0,0,0
+241,000034001,35,PA,0,0,0,0,0,0,0,35 - JOHNSTON,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+242,000080700,35,PA,0,0,0,0,0,0,0,35 - JOHNSTON,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+243,000080701,35,PA,0,0,0,0,0,0,0,35 - JOHNSTON,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+244,000083000,35,PA,7,7,0,0,0,0,0,35 - JOHNSTON,Dept. of Human Services Print,0,0,1,3,0,0,0,0,0,0,0
+245,000083001,35,PA,1,1,0,0,0,1,1,35 - JOHNSTON,Dept. of Human Services Web,1,0,0,0,0,0,0,0,0,0,0
+246,000010007,36,PA,0,0,0,0,0,0,0,36 - KAY,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+247,000034000,36,PA,17,10,2,6,1,7,0,36 - KAY,Health Dept. Print,0,0,17,12,2,4,1,6,1,0,1
+248,000034001,36,PA,0,0,0,0,0,0,0,36 - KAY,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+249,000080700,36,PA,0,0,0,0,0,0,0,36 - KAY,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+250,000080701,36,PA,0,0,0,0,0,0,0,36 - KAY,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+251,000083000,36,PA,7,4,1,3,1,3,0,36 - KAY,Dept. of Human Services Print,0,0,16,12,0,4,0,4,0,0,0
+252,000083001,36,PA,0,0,0,0,0,0,0,36 - KAY,Dept. of Human Services Web,0,0,4,3,1,0,0,1,0,0,0
+253,000010007,37,PA,0,0,0,0,0,0,0,37 - KINGFISHER,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+254,000034000,37,PA,2,2,0,0,0,0,0,37 - KINGFISHER,Health Dept. Print,0,0,2,2,0,0,0,0,0,0,0
+255,000034001,37,PA,0,0,0,0,0,0,0,37 - KINGFISHER,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+256,000080700,37,PA,0,0,0,0,0,0,0,37 - KINGFISHER,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+257,000080701,37,PA,0,0,0,0,0,0,0,37 - KINGFISHER,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+258,000083000,37,PA,0,0,0,0,0,0,0,37 - KINGFISHER,Dept. of Human Services Print,0,0,0,1,0,0,0,0,0,0,0
+259,000083001,37,PA,0,1,0,0,0,0,1,37 - KINGFISHER,Dept. of Human Services Web,0,0,0,0,0,0,0,0,0,0,0
+260,000010007,38,PA,0,0,0,0,0,0,0,38 - KIOWA,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+261,000034000,38,PA,1,1,0,0,0,0,0,38 - KIOWA,Health Dept. Print,0,0,0,1,0,0,0,0,0,0,0
+262,000034001,38,PA,0,0,0,0,0,0,0,38 - KIOWA,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+263,000080700,38,PA,0,0,0,0,0,0,0,38 - KIOWA,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+264,000080701,38,PA,0,0,0,0,0,0,0,38 - KIOWA,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+265,000083000,38,PA,0,1,0,1,0,1,1,38 - KIOWA,Dept. of Human Services Print,0,0,3,7,0,0,0,0,0,0,0
+266,000083001,38,PA,0,0,0,0,0,0,0,38 - KIOWA,Dept. of Human Services Web,0,0,0,0,0,0,0,0,0,0,0
+267,000010007,39,PA,0,0,0,0,0,0,0,39 - LATIMER,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+268,000034000,39,PA,2,2,0,0,0,0,0,39 - LATIMER,Health Dept. Print,0,0,2,2,0,0,0,0,0,0,0
+269,000034001,39,PA,0,0,0,0,0,0,0,39 - LATIMER,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+270,000080700,39,PA,0,0,0,0,0,0,0,39 - LATIMER,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+271,000080701,39,PA,0,0,0,0,0,0,0,39 - LATIMER,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+272,000083000,39,PA,0,0,0,0,0,0,0,39 - LATIMER,Dept. of Human Services Print,0,0,3,3,0,0,0,0,0,0,0
+273,000083001,39,PA,0,0,0,0,0,0,0,39 - LATIMER,Dept. of Human Services Web,0,0,0,0,0,0,0,0,0,0,0
+274,000010007,40,PA,0,0,0,0,0,0,0,40 - LEFLORE,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+275,000034000,40,PA,5,5,0,0,0,0,0,40 - LEFLORE,Health Dept. Print,0,0,4,3,0,1,1,1,0,0,0
+276,000034001,40,PA,0,0,0,0,0,0,0,40 - LEFLORE,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+277,000080700,40,PA,0,0,0,0,0,0,0,40 - LEFLORE,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+278,000080701,40,PA,0,0,0,0,0,0,0,40 - LEFLORE,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+279,000083000,40,PA,11,8,0,2,3,3,0,40 - LEFLORE,Dept. of Human Services Print,0,0,6,4,1,1,1,2,0,0,0
+280,000083001,40,PA,0,0,0,0,0,0,0,40 - LEFLORE,Dept. of Human Services Web,0,0,1,1,0,0,0,0,0,0,0
+281,000010007,41,PA,0,0,0,0,0,0,0,41 - LINCOLN,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+282,000034000,41,PA,10,7,1,2,3,3,0,41 - LINCOLN,Health Dept. Print,0,0,7,9,0,0,0,0,0,0,0
+283,000034001,41,PA,0,0,0,0,0,0,0,41 - LINCOLN,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+284,000080700,41,PA,0,0,0,0,0,0,0,41 - LINCOLN,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+285,000080701,41,PA,1,1,0,0,0,0,0,41 - LINCOLN,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+286,000083000,41,PA,9,7,0,3,2,3,1,41 - LINCOLN,Dept. of Human Services Print,0,0,4,3,0,0,1,1,0,0,0
+287,000083001,41,PA,3,1,0,1,1,2,0,41 - LINCOLN,Dept. of Human Services Web,0,0,3,2,0,0,0,1,0,0,0
+288,000010007,42,PA,0,0,0,0,0,0,0,42 - LOGAN,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+289,000034000,42,PA,16,13,2,3,0,4,1,42 - LOGAN,Health Dept. Print,0,1,5,6,0,0,0,0,0,0,0
+290,000034001,42,PA,0,0,0,0,0,0,0,42 - LOGAN,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+291,000080700,42,PA,0,0,0,0,0,0,0,42 - LOGAN,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+292,000080701,42,PA,1,1,0,0,0,0,0,42 - LOGAN,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+293,000083000,42,PA,8,6,0,2,1,3,1,42 - LOGAN,Dept. of Human Services Print,0,0,4,4,0,0,0,0,0,0,0
+294,000083001,42,PA,3,3,0,0,0,0,0,42 - LOGAN,Dept. of Human Services Web,0,0,5,6,0,0,0,0,0,0,0
+295,000010007,43,PA,0,0,0,0,0,0,0,43 - LOVE,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+296,000034000,43,PA,1,1,0,0,0,0,0,43 - LOVE,Health Dept. Print,0,0,0,0,0,0,0,0,0,0,0
+297,000034001,43,PA,0,0,0,0,0,0,0,43 - LOVE,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+298,000080700,43,PA,0,0,0,0,0,0,0,43 - LOVE,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+299,000080701,43,PA,0,0,0,0,0,0,0,43 - LOVE,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+300,000083000,43,PA,3,3,0,0,0,0,0,43 - LOVE,Dept. of Human Services Print,0,0,2,0,0,2,0,2,0,0,0
+301,000083001,43,PA,0,0,0,0,0,0,0,43 - LOVE,Dept. of Human Services Web,0,0,0,0,0,0,0,0,0,0,0
+302,000010007,44,PA,0,0,0,0,0,0,0,44 - MCCLAIN,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+303,000034000,44,PA,9,6,1,2,2,3,0,44 - MCCLAIN,Health Dept. Print,0,0,1,1,0,0,0,0,0,0,0
+304,000034001,44,PA,0,0,0,0,0,0,0,44 - MCCLAIN,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+305,000080700,44,PA,0,0,0,0,0,0,0,44 - MCCLAIN,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+306,000080701,44,PA,0,0,0,0,0,0,0,44 - MCCLAIN,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+307,000083000,44,PA,8,7,1,0,1,2,1,44 - MCCLAIN,Dept. of Human Services Print,0,0,2,3,0,0,0,0,0,0,0
+308,000083001,44,PA,1,1,0,0,0,0,0,44 - MCCLAIN,Dept. of Human Services Web,0,0,0,3,0,0,0,0,0,0,0
+309,000010007,45,PA,0,0,0,0,0,0,0,45 - MCCURTAIN,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+310,000034000,45,PA,27,21,2,4,4,7,1,45 - MCCURTAIN,Health Dept. Print,1,0,3,9,0,1,1,1,0,0,0
+311,000034001,45,PA,0,0,0,0,0,0,0,45 - MCCURTAIN,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+312,000080700,45,PA,0,0,0,0,0,0,0,45 - MCCURTAIN,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+313,000080701,45,PA,0,0,0,0,0,0,0,45 - MCCURTAIN,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+314,000083000,45,PA,3,1,0,1,0,2,0,45 - MCCURTAIN,Dept. of Human Services Print,0,1,7,7,1,3,3,5,0,0,0
+315,000083001,45,PA,0,0,0,0,0,0,0,45 - MCCURTAIN,Dept. of Human Services Web,0,0,0,0,0,0,0,0,0,0,0
+316,000010007,46,PA,0,0,0,0,0,0,0,46 - MCINTOSH,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+317,000034000,46,PA,3,2,0,1,0,1,0,46 - MCINTOSH,Health Dept. Print,0,0,2,2,0,0,0,0,0,0,0
+318,000034001,46,PA,0,0,0,0,0,0,0,46 - MCINTOSH,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+319,000080700,46,PA,0,0,0,0,0,0,0,46 - MCINTOSH,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+320,000080701,46,PA,0,0,0,0,0,0,0,46 - MCINTOSH,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+321,000083000,46,PA,10,8,1,1,1,2,0,46 - MCINTOSH,Dept. of Human Services Print,0,0,10,6,2,3,0,5,0,0,0
+322,000083001,46,PA,0,0,0,0,0,0,0,46 - MCINTOSH,Dept. of Human Services Web,0,0,0,0,0,0,0,0,0,0,0
+323,000010007,47,PA,0,0,0,0,0,0,0,47 - MAJOR,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+324,000034000,47,PA,1,1,0,0,0,0,0,47 - MAJOR,Health Dept. Print,0,0,1,1,0,0,0,0,0,0,0
+325,000034001,47,PA,0,0,0,0,0,0,0,47 - MAJOR,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+326,000080700,47,PA,0,0,0,0,0,0,0,47 - MAJOR,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+327,000080701,47,PA,0,0,0,0,0,0,0,47 - MAJOR,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+328,000083000,47,PA,3,4,0,0,0,0,1,47 - MAJOR,Dept. of Human Services Print,0,0,0,0,0,0,0,0,0,0,0
+329,000083001,47,PA,0,0,0,0,0,0,0,47 - MAJOR,Dept. of Human Services Web,0,0,0,0,0,0,0,0,0,0,0
+330,000010007,48,PA,0,0,0,0,0,0,0,48 - MARSHALL,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+331,000034000,48,PA,4,3,1,0,1,1,0,48 - MARSHALL,Health Dept. Print,0,0,7,6,0,0,1,1,0,0,0
+332,000034001,48,PA,0,0,0,0,0,0,0,48 - MARSHALL,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+333,000080700,48,PA,0,0,0,0,0,0,0,48 - MARSHALL,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+334,000080701,48,PA,0,0,0,0,0,0,0,48 - MARSHALL,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+335,000083000,48,PA,4,3,1,1,0,1,0,48 - MARSHALL,Dept. of Human Services Print,0,0,6,4,0,1,1,2,0,0,0
+336,000083001,48,PA,0,0,0,0,0,0,0,48 - MARSHALL,Dept. of Human Services Web,0,0,0,0,0,0,0,0,0,0,0
+337,000010007,49,PA,0,0,0,0,0,0,0,49 - MAYES,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+338,000034000,49,PA,17,12,4,3,1,5,0,49 - MAYES,Health Dept. Print,0,0,6,5,0,1,1,1,0,0,0
+339,000034001,49,PA,0,0,0,0,0,0,0,49 - MAYES,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+340,000080700,49,PA,0,0,0,0,0,0,0,49 - MAYES,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+341,000080701,49,PA,0,0,0,0,0,0,0,49 - MAYES,Health Care Authority Web,0,0,1,1,0,0,0,0,0,0,0
+342,000083000,49,PA,35,32,2,7,5,11,5,49 - MAYES,Dept. of Human Services Print,1,0,14,10,0,3,1,4,0,0,0
+343,000083001,49,PA,1,1,0,0,0,0,0,49 - MAYES,Dept. of Human Services Web,0,0,5,6,0,0,0,0,1,0,0
+344,000010007,50,PA,0,0,0,0,0,0,0,50 - MURRAY,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+345,000034000,50,PA,5,4,0,0,1,1,0,50 - MURRAY,Health Dept. Print,0,0,2,1,0,1,1,1,0,0,0
+346,000034001,50,PA,0,0,0,0,0,0,0,50 - MURRAY,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+347,000080700,50,PA,0,0,0,0,0,0,0,50 - MURRAY,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+348,000080701,50,PA,0,0,0,0,0,0,0,50 - MURRAY,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+349,000083000,50,PA,1,0,0,1,1,1,0,50 - MURRAY,Dept. of Human Services Print,0,0,2,1,0,1,0,1,0,0,0
+350,000083001,50,PA,1,1,0,0,0,0,0,50 - MURRAY,Dept. of Human Services Web,0,0,0,0,0,0,0,0,0,0,0
+351,000010007,51,PA,0,0,0,0,0,0,0,51 - MUSKOGEE,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+352,000034000,51,PA,4,3,1,1,2,2,0,51 - MUSKOGEE,Health Dept. Print,0,0,5,4,1,1,0,3,0,0,0
+353,000034001,51,PA,0,0,0,0,0,0,0,51 - MUSKOGEE,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+354,000080700,51,PA,0,0,0,0,0,0,0,51 - MUSKOGEE,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+355,000080701,51,PA,0,0,0,0,0,0,0,51 - MUSKOGEE,Health Care Authority Web,0,0,0,0,1,1,0,1,0,0,0
+356,000083000,51,PA,46,38,4,11,4,14,4,51 - MUSKOGEE,Dept. of Human Services Print,0,0,26,33,1,10,7,12,0,0,0
+357,000083001,51,PA,2,0,0,1,2,2,0,51 - MUSKOGEE,Dept. of Human Services Web,0,0,29,22,3,8,5,10,1,1,0
+358,000010007,52,PA,0,0,0,0,0,0,0,52 - NOBLE,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+359,000034000,52,PA,6,5,1,0,1,1,0,52 - NOBLE,Health Dept. Print,0,0,1,1,0,0,0,0,0,0,0
+360,000034001,52,PA,0,0,0,0,0,0,0,52 - NOBLE,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+361,000080700,52,PA,0,0,0,0,0,0,0,52 - NOBLE,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+362,000080701,52,PA,0,0,0,0,0,0,0,52 - NOBLE,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+363,000083000,52,PA,2,2,0,0,0,0,0,52 - NOBLE,Dept. of Human Services Print,0,0,2,2,0,0,0,0,0,0,0
+364,000083001,52,PA,0,0,0,0,0,0,0,52 - NOBLE,Dept. of Human Services Web,0,0,0,0,0,0,0,0,0,0,0
+365,000010007,53,PA,0,0,0,0,0,0,0,53 - NOWATA,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+366,000034000,53,PA,0,0,0,0,0,0,0,53 - NOWATA,Health Dept. Print,0,0,0,0,0,0,0,0,0,0,0
+367,000034001,53,PA,0,0,0,0,0,0,0,53 - NOWATA,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+368,000080700,53,PA,0,0,0,0,0,0,0,53 - NOWATA,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+369,000080701,53,PA,0,0,0,0,0,0,0,53 - NOWATA,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+370,000083000,53,PA,8,13,0,0,0,0,0,53 - NOWATA,Dept. of Human Services Print,0,0,1,10,0,0,0,0,0,0,0
+371,000083001,53,PA,0,1,0,0,0,0,0,53 - NOWATA,Dept. of Human Services Web,0,0,0,0,0,0,0,0,0,0,0
+372,000010007,54,PA,0,0,0,0,0,0,0,54 - OKFUSKEE,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+373,000034000,54,PA,2,2,0,0,0,0,0,54 - OKFUSKEE,Health Dept. Print,0,0,0,0,0,0,0,0,0,0,0
+374,000034001,54,PA,0,0,0,0,0,0,0,54 - OKFUSKEE,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+375,000080700,54,PA,0,0,0,0,0,0,0,54 - OKFUSKEE,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+376,000080701,54,PA,0,0,0,0,0,0,0,54 - OKFUSKEE,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+377,000083000,54,PA,3,2,0,0,0,1,0,54 - OKFUSKEE,Dept. of Human Services Print,0,0,6,6,1,1,3,3,0,0,0
+378,000083001,54,PA,0,0,0,0,0,0,0,54 - OKFUSKEE,Dept. of Human Services Web,0,0,0,0,0,0,0,0,0,0,0
+379,000010007,55,PA,0,2,0,0,0,0,2,55 - OKLAHOMA,Public Assistance (Unspecified),0,0,5,3,0,2,0,2,0,0,0
+380,000034000,55,PA,218,146,15,60,19,90,6,55 - OKLAHOMA,Health Dept. Print,0,11,116,68,17,39,10,54,6,0,4
+381,000034001,55,PA,0,0,0,0,0,0,0,55 - OKLAHOMA,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+382,000080700,55,PA,0,0,0,1,0,1,1,55 - OKLAHOMA,Health Care Authority Print,0,0,2,3,0,0,0,0,1,0,0
+383,000080701,55,PA,3,0,3,4,0,5,0,55 - OKLAHOMA,Health Care Authority Web,0,0,4,3,0,1,0,1,0,0,0
+384,000083000,55,PA,119,107,10,31,11,45,13,55 - OKLAHOMA,Dept. of Human Services Print,0,4,120,76,10,36,6,51,5,0,3
+385,000083001,55,PA,23,18,3,4,2,6,0,55 - OKLAHOMA,Dept. of Human Services Web,0,0,69,48,3,14,5,27,6,0,4
+386,000010007,56,PA,0,0,0,0,0,0,0,56 - OKMULGEE,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+387,000034000,56,PA,2,2,0,0,0,0,0,56 - OKMULGEE,Health Dept. Print,0,0,4,4,0,0,0,0,0,0,0
+388,000034001,56,PA,0,0,0,0,0,0,0,56 - OKMULGEE,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+389,000080700,56,PA,0,0,0,0,0,0,0,56 - OKMULGEE,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+390,000080701,56,PA,0,0,0,0,0,0,0,56 - OKMULGEE,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+391,000083000,56,PA,6,5,0,1,1,2,0,56 - OKMULGEE,Dept. of Human Services Print,0,0,10,7,1,1,1,3,0,0,0
+392,000083001,56,PA,2,2,0,0,0,0,0,56 - OKMULGEE,Dept. of Human Services Web,0,0,0,0,0,0,0,0,0,0,0
+393,000010007,57,PA,0,0,0,0,0,0,0,57 - OSAGE,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+394,000034000,57,PA,10,12,0,0,0,0,1,57 - OSAGE,Health Dept. Print,0,0,4,6,0,0,0,1,0,0,0
+395,000034001,57,PA,0,0,0,0,0,0,0,57 - OSAGE,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+396,000080700,57,PA,0,0,0,0,0,0,0,57 - OSAGE,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+397,000080701,57,PA,0,0,0,0,0,0,0,57 - OSAGE,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+398,000083000,57,PA,10,8,0,3,2,3,1,57 - OSAGE,Dept. of Human Services Print,0,0,2,5,0,2,2,2,0,0,0
+399,000083001,57,PA,3,3,0,0,0,0,0,57 - OSAGE,Dept. of Human Services Web,0,0,4,5,0,0,0,0,0,0,0
+400,000010007,58,PA,0,0,0,0,0,0,0,58 - OTTAWA,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+401,000034000,58,PA,5,3,1,1,0,2,0,58 - OTTAWA,Health Dept. Print,0,0,4,4,0,0,0,0,0,0,0
+402,000034001,58,PA,0,0,0,0,0,0,0,58 - OTTAWA,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+403,000080700,58,PA,0,0,0,0,0,0,0,58 - OTTAWA,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+404,000080701,58,PA,0,0,0,0,0,0,0,58 - OTTAWA,Health Care Authority Web,0,0,1,0,0,0,0,1,0,0,0
+405,000083000,58,PA,5,5,1,0,0,1,1,58 - OTTAWA,Dept. of Human Services Print,0,0,7,4,0,1,0,3,0,0,0
+406,000083001,58,PA,4,1,3,1,1,3,0,58 - OTTAWA,Dept. of Human Services Web,0,0,0,0,0,0,0,0,0,0,0
+407,000010007,59,PA,0,0,0,0,0,0,0,59 - PAWNEE,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+408,000034000,59,PA,0,1,0,0,0,0,0,59 - PAWNEE,Health Dept. Print,0,0,4,4,0,0,0,0,0,0,0
+409,000034001,59,PA,0,0,0,0,0,0,0,59 - PAWNEE,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+410,000080700,59,PA,0,0,0,0,0,0,0,59 - PAWNEE,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+411,000080701,59,PA,0,0,0,0,0,0,0,59 - PAWNEE,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+412,000083000,59,PA,1,1,0,0,0,0,0,59 - PAWNEE,Dept. of Human Services Print,0,0,5,5,1,1,1,2,0,0,0
+413,000083001,59,PA,0,0,0,0,0,0,0,59 - PAWNEE,Dept. of Human Services Web,0,0,0,0,0,0,0,0,0,0,0
+414,000010007,60,PA,0,0,0,0,0,0,0,60 - PAYNE,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+415,000034000,60,PA,30,21,1,5,0,10,1,60 - PAYNE,Health Dept. Print,0,2,42,31,1,7,4,11,0,0,1
+416,000034001,60,PA,0,0,0,0,0,0,0,60 - PAYNE,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+417,000080700,60,PA,0,0,0,0,0,0,0,60 - PAYNE,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+418,000080701,60,PA,0,0,0,0,0,0,0,60 - PAYNE,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+419,000083000,60,PA,4,3,0,1,0,2,1,60 - PAYNE,Dept. of Human Services Print,1,0,7,4,0,3,0,3,0,0,0
+420,000083001,60,PA,4,3,0,0,1,1,0,60 - PAYNE,Dept. of Human Services Web,0,0,2,3,0,0,0,0,0,0,0
+421,000010007,61,PA,0,0,0,0,0,0,0,61 - PITTSBURG,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+422,000034000,61,PA,27,22,1,7,5,8,2,61 - PITTSBURG,Health Dept. Print,0,0,6,4,1,5,1,5,0,0,0
+423,000034001,61,PA,0,0,0,0,0,0,0,61 - PITTSBURG,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+424,000080700,61,PA,0,0,0,0,0,0,0,61 - PITTSBURG,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+425,000080701,61,PA,0,0,0,0,0,0,0,61 - PITTSBURG,Health Care Authority Web,0,0,1,0,0,0,1,1,0,0,0
+426,000083000,61,PA,26,18,1,6,3,8,0,61 - PITTSBURG,Dept. of Human Services Print,0,1,11,12,0,1,0,1,0,0,0
+427,000083001,61,PA,0,0,0,0,0,0,0,61 - PITTSBURG,Dept. of Human Services Web,0,0,0,0,0,0,0,0,0,0,0
+428,000010007,62,PA,0,0,0,0,0,0,0,62 - PONTOTOC,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+429,000034000,62,PA,12,8,2,2,0,5,0,62 - PONTOTOC,Health Dept. Print,0,1,7,6,0,1,0,1,0,0,0
+430,000034001,62,PA,0,0,0,0,0,0,0,62 - PONTOTOC,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+431,000080700,62,PA,0,0,0,0,0,0,0,62 - PONTOTOC,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+432,000080701,62,PA,1,1,0,0,0,0,0,62 - PONTOTOC,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+433,000083000,62,PA,9,8,2,2,1,3,0,62 - PONTOTOC,Dept. of Human Services Print,0,0,4,4,0,1,0,1,1,0,0
+434,000083001,62,PA,5,5,0,0,0,0,0,62 - PONTOTOC,Dept. of Human Services Web,0,0,0,0,0,0,0,0,0,0,0
+435,000010007,63,PA,0,0,0,0,0,0,0,63 - POTTAWATOMIE,Public Assistance (Unspecified),0,0,1,1,0,0,0,0,0,0,0
+436,000034000,63,PA,18,14,0,3,1,5,1,63 - POTTAWATOMIE,Health Dept. Print,0,1,15,7,3,6,1,8,0,0,0
+437,000034001,63,PA,0,0,0,0,0,0,0,63 - POTTAWATOMIE,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+438,000080700,63,PA,0,0,0,0,0,0,0,63 - POTTAWATOMIE,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+439,000080701,63,PA,0,0,0,0,0,0,0,63 - POTTAWATOMIE,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+440,000083000,63,PA,21,20,0,1,0,2,1,63 - POTTAWATOMIE,Dept. of Human Services Print,0,0,10,8,1,4,2,4,1,0,0
+441,000083001,63,PA,2,1,1,0,0,1,0,63 - POTTAWATOMIE,Dept. of Human Services Web,0,0,2,2,0,0,0,0,0,0,0
+442,000010007,64,PA,0,0,0,0,0,0,0,64 - PUSHMATAHA,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+443,000034000,64,PA,4,5,0,0,0,0,0,64 - PUSHMATAHA,Health Dept. Print,0,0,5,4,0,1,0,1,0,0,0
+444,000034001,64,PA,0,0,0,0,0,0,0,64 - PUSHMATAHA,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+445,000080700,64,PA,0,0,0,0,0,0,0,64 - PUSHMATAHA,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+446,000080701,64,PA,0,0,0,0,0,0,0,64 - PUSHMATAHA,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+447,000083000,64,PA,2,0,1,1,1,2,0,64 - PUSHMATAHA,Dept. of Human Services Print,0,0,0,0,0,0,0,0,0,0,0
+448,000083001,64,PA,4,2,2,1,1,2,0,64 - PUSHMATAHA,Dept. of Human Services Web,0,0,2,2,0,0,0,0,0,0,0
+449,000010007,65,PA,0,0,0,0,0,0,0,65 - ROGER MILLS,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+450,000034000,65,PA,0,0,0,0,0,0,0,65 - ROGER MILLS,Health Dept. Print,0,0,0,0,0,0,0,0,0,0,0
+451,000034001,65,PA,0,0,0,0,0,0,0,65 - ROGER MILLS,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+452,000080700,65,PA,0,0,0,0,0,0,0,65 - ROGER MILLS,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+453,000080701,65,PA,0,0,0,0,0,0,0,65 - ROGER MILLS,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+454,000083000,65,PA,0,1,0,0,0,0,1,65 - ROGER MILLS,Dept. of Human Services Print,0,0,0,0,0,0,0,0,0,0,0
+455,000083001,65,PA,0,0,0,0,0,0,0,65 - ROGER MILLS,Dept. of Human Services Web,0,0,0,0,0,0,0,0,0,0,0
+456,000010007,66,PA,0,0,0,0,0,0,0,66 - ROGERS,Public Assistance (Unspecified),0,0,1,1,0,0,0,0,0,0,0
+457,000034000,66,PA,11,10,0,1,0,2,1,66 - ROGERS,Health Dept. Print,0,0,6,5,1,0,0,1,0,0,0
+458,000034001,66,PA,0,0,0,0,0,0,0,66 - ROGERS,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+459,000080700,66,PA,0,0,0,0,0,0,0,66 - ROGERS,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+460,000080701,66,PA,0,0,0,0,0,0,0,66 - ROGERS,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+461,000083000,66,PA,35,29,3,7,3,8,2,66 - ROGERS,Dept. of Human Services Print,0,0,22,20,0,2,0,4,0,0,0
+462,000083001,66,PA,2,1,0,0,1,1,0,66 - ROGERS,Dept. of Human Services Web,0,0,7,5,1,2,0,2,0,0,0
+463,000010007,67,PA,0,0,0,0,0,0,0,67 - SEMINOLE,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+464,000034000,67,PA,10,8,0,1,1,2,0,67 - SEMINOLE,Health Dept. Print,0,0,8,9,0,0,0,0,1,0,0
+465,000034001,67,PA,0,0,0,0,0,0,0,67 - SEMINOLE,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+466,000080700,67,PA,0,0,0,0,0,0,0,67 - SEMINOLE,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+467,000080701,67,PA,0,0,0,0,0,0,0,67 - SEMINOLE,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+468,000083000,67,PA,8,8,0,0,0,0,0,67 - SEMINOLE,Dept. of Human Services Print,0,0,5,5,0,0,0,1,1,1,0
+469,000083001,67,PA,0,0,0,0,0,0,0,67 - SEMINOLE,Dept. of Human Services Web,0,0,0,0,0,0,0,0,0,0,0
+470,000010007,68,PA,0,0,0,0,0,0,0,68 - SEQUOYAH,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+471,000034000,68,PA,3,3,0,0,0,0,0,68 - SEQUOYAH,Health Dept. Print,0,0,0,0,0,0,0,0,0,0,0
+472,000034001,68,PA,0,0,0,0,0,0,0,68 - SEQUOYAH,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+473,000080700,68,PA,0,0,0,0,0,0,0,68 - SEQUOYAH,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+474,000080701,68,PA,0,0,0,0,0,0,0,68 - SEQUOYAH,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+475,000083000,68,PA,7,6,1,1,0,1,0,68 - SEQUOYAH,Dept. of Human Services Print,0,0,12,7,1,4,4,5,0,0,0
+476,000083001,68,PA,1,1,0,0,0,0,0,68 - SEQUOYAH,Dept. of Human Services Web,0,0,0,0,0,0,0,0,0,0,0
+477,000010007,69,PA,0,0,0,0,0,0,0,69 - STEPHENS,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+478,000034000,69,PA,8,5,0,3,0,3,0,69 - STEPHENS,Health Dept. Print,0,0,2,1,1,1,0,1,0,0,0
+479,000034001,69,PA,0,0,0,0,0,0,0,69 - STEPHENS,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+480,000080700,69,PA,0,0,0,0,0,0,0,69 - STEPHENS,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+481,000080701,69,PA,0,0,0,0,0,0,0,69 - STEPHENS,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+482,000083000,69,PA,5,2,1,2,1,5,2,69 - STEPHENS,Dept. of Human Services Print,1,0,3,3,1,0,1,1,0,0,0
+483,000083001,69,PA,0,0,0,0,0,0,0,69 - STEPHENS,Dept. of Human Services Web,0,0,1,0,1,1,0,1,0,0,0
+484,000010007,70,PA,0,0,0,0,0,0,0,70 - TEXAS,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+485,000034000,70,PA,0,0,0,0,0,0,0,70 - TEXAS,Health Dept. Print,0,0,0,0,0,0,0,0,0,0,0
+486,000034001,70,PA,0,0,0,0,0,0,0,70 - TEXAS,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+487,000080700,70,PA,0,0,0,0,0,0,0,70 - TEXAS,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+488,000080701,70,PA,0,0,0,0,0,0,0,70 - TEXAS,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+489,000083000,70,PA,0,0,0,0,0,0,0,70 - TEXAS,Dept. of Human Services Print,0,0,0,0,0,0,0,0,0,0,0
+490,000083001,70,PA,1,1,0,0,0,0,0,70 - TEXAS,Dept. of Human Services Web,0,0,0,0,0,0,0,0,0,0,0
+491,000010007,71,PA,0,0,0,0,0,0,0,71 - TILLMAN,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+492,000034000,71,PA,1,1,0,0,0,0,0,71 - TILLMAN,Health Dept. Print,0,0,0,0,0,0,0,0,0,0,0
+493,000034001,71,PA,0,0,0,0,0,0,0,71 - TILLMAN,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+494,000080700,71,PA,0,0,0,0,0,0,0,71 - TILLMAN,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+495,000080701,71,PA,0,0,0,0,0,0,0,71 - TILLMAN,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+496,000083000,71,PA,7,5,0,1,1,2,0,71 - TILLMAN,Dept. of Human Services Print,0,0,4,3,0,1,0,1,0,0,0
+497,000083001,71,PA,0,0,0,0,0,0,0,71 - TILLMAN,Dept. of Human Services Web,0,0,0,0,0,0,0,0,0,0,0
+498,000010007,72,PA,1,0,1,1,1,1,0,72 - TULSA,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+499,000034000,72,PA,44,50,4,24,12,37,6,72 - TULSA,Health Dept. Print,0,0,72,53,3,20,8,24,3,0,0
+500,000034001,72,PA,0,0,0,0,0,0,0,72 - TULSA,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+501,000080700,72,PA,0,0,0,0,0,0,0,72 - TULSA,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+502,000080701,72,PA,0,0,0,0,0,0,0,72 - TULSA,Health Care Authority Web,0,0,1,2,0,0,0,0,0,0,0
+503,000083000,72,PA,42,35,2,12,2,14,3,72 - TULSA,Dept. of Human Services Print,0,0,56,42,4,14,4,16,2,0,0
+504,000083001,72,PA,7,7,3,1,2,4,0,72 - TULSA,Dept. of Human Services Web,0,0,65,55,1,10,4,13,2,0,0
+505,000010007,73,PA,0,0,0,0,0,0,0,73 - WAGONER,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+506,000034000,73,PA,5,4,0,1,1,1,0,73 - WAGONER,Health Dept. Print,0,0,1,2,0,0,0,0,0,0,0
+507,000034001,73,PA,0,0,0,0,0,0,0,73 - WAGONER,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+508,000080700,73,PA,0,0,0,0,0,0,0,73 - WAGONER,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+509,000080701,73,PA,0,0,0,0,0,0,0,73 - WAGONER,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+510,000083000,73,PA,10,8,0,1,1,2,0,73 - WAGONER,Dept. of Human Services Print,0,0,7,5,1,2,2,3,0,0,0
+511,000083001,73,PA,6,2,2,0,1,4,0,73 - WAGONER,Dept. of Human Services Web,0,0,18,21,0,1,0,1,0,0,0
+512,000010007,74,PA,0,0,0,0,0,0,0,74 - WASHINGTON,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+513,000034000,74,PA,18,13,1,2,2,5,0,74 - WASHINGTON,Health Dept. Print,0,1,2,1,1,1,0,2,1,0,1
+514,000034001,74,PA,0,0,0,0,0,0,0,74 - WASHINGTON,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+515,000080700,74,PA,0,0,0,0,0,0,0,74 - WASHINGTON,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+516,000080701,74,PA,0,0,0,0,0,0,0,74 - WASHINGTON,Health Care Authority Web,0,0,3,2,1,1,0,1,0,0,0
+517,000083000,74,PA,8,4,1,3,1,4,0,74 - WASHINGTON,Dept. of Human Services Print,0,0,12,10,1,5,1,6,0,0,1
+518,000083001,74,PA,2,1,0,0,1,1,0,74 - WASHINGTON,Dept. of Human Services Web,0,0,2,1,1,0,0,1,0,0,0
+519,000010007,75,PA,0,0,0,0,0,0,0,75 - WASHITA,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+520,000034000,75,PA,2,1,0,2,0,2,1,75 - WASHITA,Health Dept. Print,0,0,0,1,0,0,0,1,1,1,0
+521,000034001,75,PA,0,0,0,0,0,0,0,75 - WASHITA,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+522,000080700,75,PA,0,0,0,0,0,0,0,75 - WASHITA,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+523,000080701,75,PA,0,0,0,0,0,0,0,75 - WASHITA,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+524,000083000,75,PA,3,2,0,0,0,1,0,75 - WASHITA,Dept. of Human Services Print,0,0,1,8,0,0,0,0,0,0,0
+525,000083001,75,PA,0,0,0,0,0,0,0,75 - WASHITA,Dept. of Human Services Web,0,0,3,1,0,0,2,2,0,0,0
+526,000010007,76,PA,0,0,0,0,0,0,0,76 - WOODS,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+527,000034000,76,PA,2,2,0,0,0,0,0,76 - WOODS,Health Dept. Print,0,0,0,0,0,0,0,0,0,0,0
+528,000034001,76,PA,0,0,0,0,0,0,0,76 - WOODS,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+529,000080700,76,PA,0,0,0,0,0,0,0,76 - WOODS,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+530,000080701,76,PA,0,0,0,0,0,0,0,76 - WOODS,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+531,000083000,76,PA,0,0,0,0,0,0,0,76 - WOODS,Dept. of Human Services Print,0,0,0,2,0,0,0,0,0,0,0
+532,000083001,76,PA,1,1,0,0,0,0,0,76 - WOODS,Dept. of Human Services Web,0,0,0,0,0,0,0,0,0,0,0
+533,000010007,77,PA,0,0,0,0,0,0,0,77 - WOODWARD,Public Assistance (Unspecified),0,0,0,0,0,0,0,0,0,0,0
+534,000034000,77,PA,1,0,0,0,1,1,0,77 - WOODWARD,Health Dept. Print,0,0,2,0,0,1,0,2,0,0,0
+535,000034001,77,PA,0,0,0,0,0,0,0,77 - WOODWARD,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+536,000080700,77,PA,0,0,0,0,0,0,0,77 - WOODWARD,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+537,000080701,77,PA,1,1,0,0,0,0,0,77 - WOODWARD,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
+538,000083000,77,PA,3,3,0,0,0,0,0,77 - WOODWARD,Dept. of Human Services Print,0,0,5,4,0,1,1,1,0,0,0
+539,000083001,77,PA,0,0,0,0,0,0,0,77 - WOODWARD,Dept. of Human Services Web,0,0,0,0,0,0,0,0,0,0,0
+540,000010007,99,PA,3,4,1,1,1,1,2,State of Oklahoma,Public Assistance (Unspecified),0,0,7,5,0,2,0,2,0,0,0
+541,000034000,99,PA,817,620,55,181,77,286,29,State of Oklahoma,Health Dept. Print,2,26,539,423,45,124,44,186,18,1,12
+542,000034001,99,PA,3,3,0,0,0,0,0,State of Oklahoma,Health Dept. Web,0,0,0,0,0,0,0,0,0,0,0
+543,000080700,99,PA,0,0,0,1,0,1,1,State of Oklahoma,Health Care Authority Print,0,0,2,3,0,0,0,0,1,0,0
+544,000080701,99,PA,13,7,4,5,2,8,0,State of Oklahoma,Health Care Authority Web,0,0,15,12,2,3,1,6,1,0,0
+545,000083000,99,PA,825,685,52,161,77,247,50,State of Oklahoma,Dept. of Human Services Print,5,10,629,546,41,160,64,225,16,1,10
+546,000083001,99,PA,117,96,16,10,15,34,3,State of Oklahoma,Dept. of Human Services Web,1,1,342,291,17,53,22,86,11,1,5

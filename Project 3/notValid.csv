@@ -1,0 +1,3 @@
+record_id,source_id,county_code,parent_source,apps_received,new_registrations,name_changes,address_changes,party_changes,regis_updates,rej_apps,county_desc,description,rej_dupes,nonrej_dupes,apps_received_prior,new_registrations_prior,name_changes_prior,address_changes_prior,party_changes_prior,regis_updates_prior,rej_apps_prior,rej_dupes_prior,nonrej_dupes_prior
+188,83000,27,PA,0,0,-1,0,0,0,0,27 - GRANT,Dept. of Human Services Print,0,0,0,0,0,0,0,0,0,0,0
+180,80701,26,PA,0,0,0,0,0,-1,0,26 - GRADY,Health Care Authority Web,0,0,0,0,0,0,0,0,0,0,0
