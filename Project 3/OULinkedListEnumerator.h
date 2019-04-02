@@ -13,6 +13,7 @@ private:
 	OULink<T>* firstItem; // first node
 public:
 	OULinkedListEnumerator(OULink<T>* first);
+	OULinkedListEnumerator();
 	virtual ~OULinkedListEnumerator();
 	bool hasNext() const;
 	T next();			// throws ExceptionEnumerationBeyondEnd if no next item is available
@@ -29,6 +30,12 @@ OULinkedListEnumerator<T>::OULinkedListEnumerator(OULink<T>* first)
 {
 	current = first;
 	firstItem = first;
+}
+///
+template <typename T>
+OULinkedListEnumerator<T>::OULinkedListEnumerator()
+{
+
 }
 
 /*
@@ -77,7 +84,7 @@ T OULinkedListEnumerator<T>::next()
 template <typename T>
 T OULinkedListEnumerator<T>::peek() const
 {
-	if (firstItem == NULL)
+	if (firstItem == NULL || current == NULL)
 	{
 		throw new ExceptionEnumerationBeyondEnd;
 	}

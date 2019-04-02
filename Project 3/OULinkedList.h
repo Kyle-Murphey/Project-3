@@ -47,6 +47,7 @@ public:
 	unsigned long getSize() const;					// returns the current number of items in the list
 
 	OULinkedListEnumerator<T> enumerator() const;	// create an enumerator for this linked list
+	OULinkedListEnumerator<T>* enumeratorPtr() const;
 };
 
 /*
@@ -65,9 +66,17 @@ OULinkedList<T>::OULinkedList(Comparator<T>* comparator)
 template <typename T>
 OULinkedList<T>::~OULinkedList()
 {
-	delete first;
-	first = NULL;
-	last = NULL;
+	if (size < 1)
+	{
+
+	}
+	else
+	{
+		delete first;
+		first = NULL;
+		last = NULL;
+	}
+	
 }
 
 /*
@@ -380,6 +389,17 @@ template<typename T>
 OULinkedListEnumerator<T> OULinkedList<T>::enumerator() const
 {
 	OULinkedListEnumerator<T> enumerator(first);
+	return enumerator;
+}
+
+/*
+	pointer enumerator for the list
+	@return =  pointer enum with current set to first node
+*/
+template<typename T>
+OULinkedListEnumerator<T>* OULinkedList<T>::enumeratorPtr() const
+{
+	OULinkedListEnumerator<T>* enumerator = new OULinkedListEnumerator<T>(first);
 	return enumerator;
 }
 
